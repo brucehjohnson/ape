@@ -1,5 +1,10 @@
 # Applied Physics Engineering
 
+[![Lighthouse score: 100/100](https://lighthouse-badge.appspot.com/?score=92&category=Performance)](https://github.com/ebidel/lighthouse-badge)
+[![Lighthouse score: 100/100](https://lighthouse-badge.appspot.com/?score=100&compact&category=Accessibility)](https://github.com/ebidel/lighthouse-badge)
+[![Lighthouse score: 93/100](https://lighthouse-badge.appspot.com/?score=93&compact&category=Best%20Practices)](https://github.com/ebidel/lighthouse-badge)
+[![Lighthouse score: 90/100](https://lighthouse-badge.appspot.com/?score=100&compact&category=SEO)](https://github.com/ebidel/lighthouse-badge)
+
 > This is the updated website for Applied Physics Engineering
 
 - Bruce Johnson
