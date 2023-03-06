@@ -15,6 +15,10 @@
 * Site: <https://denisecase.github.io/ape>
 * Source: <https://github.com/denisecase/ape>
 
+## MandArt
+
+* Source: <https://github.com/denisecase/MandArt>
+
 ## Recommended
 
 - [Git](https://git-scm.com/download/win) version control system
