@@ -12,12 +12,12 @@
 
 ## Links
 
-* Site: <https://denisecase.github.io/ape>
-* Source: <https://github.com/denisecase/ape>
+* Site: <https://brucehjohnson.github.io/ape>
+* Source: <https://github.com/brucehjohnson/ape>
 
 ## MandArt
 
-* Source: <https://github.com/denisecase/MandArt>
+* Source: <https://github.com/brucehjohnson/MandArt>
 
 ## Recommended
 
